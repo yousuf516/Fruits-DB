@@ -1,0 +1,22 @@
+{
+  "name": "fruits-db",
+  "version": "1.0.0",
+  "description": "A database of fruits",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousuf516/Fruits-DB.git"
+  },
+  "author": "Yousuf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yousuf516/Fruits-DB/issues"
+  },
+  "homepage": "https://github.com/yousuf516/Fruits-DB#readme",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
+}
